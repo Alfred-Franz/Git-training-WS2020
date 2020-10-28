@@ -1,2 +1,6 @@
 Alexandra Ertl
+<<<<<<< HEAD
 Guten Tag!
+=======
+Liebe Grüße!
+>>>>>>> testAlexandraErtl_2
