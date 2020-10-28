@@ -1,3 +1,7 @@
 Testdatei
 
 Test Nr.2
+
+Änderung 1
+
+Auslösen eines Merge-Konflikts
