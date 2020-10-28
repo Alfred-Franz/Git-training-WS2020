@@ -2,6 +2,10 @@ Testdatei
 
 Test Nr.2
 
+<<<<<<< HEAD
 Änderung 1
 
 Auslösen eines Merge-Konflikts
+=======
+2. Änderung
+>>>>>>> meinBranchSpeter1
