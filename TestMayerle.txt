@@ -1,2 +1,8 @@
 #Mayerle Hallo Test 
 #Mayerle Update nur in Subbranch
+#Mayerle Änderung in Branch 3 
+        --> Veruchen Konflikt auszulösen 
+	--> sadnfoansdgä
+        -->afnigasngfoanjdfg
+	-->afdgjonadfgn
+	-->afdignjaodfg
